@@ -1,5 +1,8 @@
 # .gitignore
 
+# Defer to GitHub's Gemfile.lock
+Gemfile.lock
+
 _site/
 
 .jekyll-metadata
